@@ -36,3 +36,15 @@ macOS version: 10.15.7
 - [x] 声卡输出
 - [x] 以太网
 - [x] HDMI输出
+
+### 硬件识别正常
+![](./images/pic1.png)
+
+### 关于本机
+![](./images/pic2.png)
+
+### H264 和 HEVC 硬解
+![](./images/pic3.png)
+
+### Geekbench 5 跑分
+![](./images/pic4.png)
