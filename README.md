@@ -6,6 +6,10 @@ macOS version: 10.15.7
 
 ##  更新情况
 
+2020.11.10
+
+- UHD630核显4K显示器输出(DP和HDMI)
+
 2020.11.5
 
 - 升级 OpenCore: 0.6.3
@@ -35,7 +39,8 @@ macOS version: 10.15.7
 - [x] 核显硬件加速
 - [x] 声卡输出
 - [x] 以太网
-- [x] HDMI输出
+- [x] HDMI 4K输出
+- [x] DP 4K输出 
 
 ### 硬件识别正常
 ![](./images/pic1.png)
@@ -48,3 +53,6 @@ macOS version: 10.15.7
 
 ### Geekbench 5 跑分
 ![](./images/pic4.png)
+
+### UHD630核显4k显示器DP输出(HDMI也行 图就不做了)
+![](./images/pic5.png)
