@@ -54,5 +54,8 @@ macOS version: 10.15.7
 ### Geekbench 5 跑分
 ![](./images/pic4.png)
 
-### UHD630核显4k显示器DP输出(HDMI也行 图就不做了)
+### UHD630核显4k显示器DP输出
 ![](./images/pic5.png)
+
+### UHD630核显4k显示器HDMI输出
+![](./images/pic6.png)
