@@ -1,14 +1,13 @@
 # Hackintosh-10400-B460M-MORTAR
 ## EFI 
-OpenCore: 0.6.3
+OpenCore: 0.6.4
 
 macOS version: 10.15.7
 
 ##  更新情况
+2020.12.11
 
-2020.11.10
-
-- UHD630核显4K显示器输出(DP和HDMI)
+- 升级 OpenCore: 0.6.4
 
 2020.11.5
 
@@ -32,30 +31,32 @@ macOS version: 10.15.7
 |散热|乔思伯CR-1000 + 乔思伯 FR-502-ARGB风扇 * 3|
 |网卡|板载Realtek RTL8125B千兆网卡|
 
-## 功能测试
+## Bios设置
+![](./images/pic1.png)
+![](./images/pic2.png)
+![](./images/pic3.png)
+![](./images/pic4.png)
+![](./images/pic5.png)
 
+## 功能测试
 - [x] 睡眠/唤醒
 - [x] 所有USB端口
 - [x] 核显硬件加速
 - [x] 声卡输出
 - [x] 以太网
-- [x] HDMI 4K输出
 - [x] DP 4K输出 
 
 ### 硬件识别正常
-![](./images/pic1.png)
+![](./images/pic6.png)
 
 ### 关于本机
-![](./images/pic2.png)
+![](./images/pic7.png)
 
 ### H264 和 HEVC 硬解
-![](./images/pic3.png)
+![](./images/pic8.png)
 
 ### Geekbench 5 跑分
-![](./images/pic4.png)
+![](./images/pic9.png)
 
 ### UHD630核显4k显示器DP输出
-![](./images/pic5.png)
-
-### UHD630核显4k显示器HDMI输出
-![](./images/pic6.png)
+![](./images/pic10.png)
