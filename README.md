@@ -1,10 +1,15 @@
 # Hackintosh-10400-B460M-MORTAR
 ## EFI 
-OpenCore: 0.6.4
+OpenCore: 0.6.5
 
 macOS version: 10.15.7
 
 ##  更新情况
+
+2021.01.08
+
+- 升级 OpenCore: 0.6.5
+
 2020.12.11
 
 - 升级 OpenCore: 0.6.4
