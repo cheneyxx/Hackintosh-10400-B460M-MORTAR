@@ -48,6 +48,9 @@ macOS version: 11.2.1
 ![](./images/pic4.png)
 ![](./images/pic5.png)
 
+## 网络设置
+![](./images/pic.png)
+
 ## 功能测试
 - [x] 睡眠/唤醒
 - [x] 所有USB端口
