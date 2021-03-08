@@ -5,6 +5,10 @@ OpenCore: 0.6.6
 macOS version: 11.2.1
 
 ##  更新情况
+2021.03.08
+
+- 升级 OpenCore: 0.6.7
+- macOS Big Sur 11.2.2
 
 2021.02.19
 

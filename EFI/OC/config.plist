@@ -197,17 +197,17 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>CwAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
 				<key>device-id</key>
 				<data>kj4AAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>CwAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -633,6 +633,36 @@
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Base</key>
+				<string>_vstart</string>
+				<key>Comment</key>
+				<string>Early reboot</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<false/>
+				<key>Find</key>
+				<data></data>
+				<key>Identifier</key>
+				<string>kernel</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>Replace</key>
+				<data>McCwBrr5DAAA7uv+</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
@@ -959,9 +989,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CMDYNPN5T</string>
+			<string>C02D20EQPN5T</string>
 			<key>SystemUUID</key>
-			<string>B412BEE1-647D-41E5-9956-1443E11F00A6</string>
+			<string>65900E97-C61A-44D1-A9B7-D1B093B2FAE1</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -970,7 +1000,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02017270GUPHCD8C</string>
+			<string>C02028301J9PHCDJA</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>ROM</key>
@@ -982,9 +1012,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CMDYNPN5T</string>
+			<string>C02D20EQPN5T</string>
 			<key>SystemUUID</key>
-			<string>B412BEE1-647D-41E5-9956-1443E11F00A6</string>
+			<string>65900E97-C61A-44D1-A9B7-D1B093B2FAE1</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -995,20 +1025,22 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f//f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02017270GUPHCD8C</string>
+			<string>C02028301J9PHCDJA</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
+			<key>SystemSerialNumber</key>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>B412BEE1-647D-41E5-9956-1443E11F00A6</string>
+			<string>65900E97-C61A-44D1-A9B7-D1B093B2FAE1</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>11/30/2020</string>
+			<string>01/06/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1554.60.15.0.0</string>
+			<string>1554.80.3.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -1018,7 +1050,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-CFF7D910A743CAAF</string>
 			<key>BoardSerialNumber</key>
-			<string>C02017270GUPHCD8C</string>
+			<string>C02028301J9PHCDJA</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1028,7 +1060,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02CMDYNPN5T</string>
+			<string>C02D20EQPN5T</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -1052,9 +1084,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CMDYNPN5T</string>
+			<string>C02D20EQPN5T</string>
 			<key>SystemUUID</key>
-			<string>B412BEE1-647D-41E5-9956-1443E11F00A6</string>
+			<string>65900E97-C61A-44D1-A9B7-D1B093B2FAE1</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -1095,11 +1127,13 @@
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
-			<true/>
+			<false/>
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
+			<key>ResetTrafficClass</key>
+			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
@@ -1119,8 +1153,6 @@
 			<false/>
 			<key>KeyForgetThreshold</key>
 			<integer>5</integer>
-			<key>KeyMergeThreshold</key>
-			<integer>2</integer>
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
@@ -1143,6 +1175,8 @@
 			<key>DirectGopRendering</key>
 			<false/>
 			<key>ForceResolution</key>
+			<false/>
+			<key>GopPassThrough</key>
 			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
@@ -1202,6 +1236,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>ActivateHpetSupport</key>
+			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
