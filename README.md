@@ -1,3 +1,5 @@
+# 不维护了
+
 # Hackintosh-10400-B460M-MORTAR
 ## EFI 
 OpenCore: 0.6.9
